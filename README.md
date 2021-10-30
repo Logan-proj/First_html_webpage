@@ -8,3 +8,4 @@ Started learning HTML and wanted to create a simple personal webpage to solidify
 + HTML lists
 + HTML elements
 + HTML links and anchor tags
++ Using HTML tables for layout
